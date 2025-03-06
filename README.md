@@ -180,9 +180,7 @@ function DECRYPT_BLOCK(ciphertext_32, KEY_32, N):
 
 ## 7. Flowchart
 
-```markdown
 ![Flowchart of the Feistel-based Algorithm](images/flowchart.png)
-```
 
 ## 8. Security Analysis
 
